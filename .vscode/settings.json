@@ -1,0 +1,4 @@
+{
+  "cmake.ignoreCMakeListsMissing": true,
+  "codeium.enableCodeLens": false
+}
